@@ -6,7 +6,48 @@
 <title>ProPhotoSkills MemberAbo – Voller Zugang zu allen 9 Bereichen professioneller Fotografie</title>
 <meta name="description" content="ProPhotoSkills MemberAbo: Vollzugang zu Next Level (KNOWLEDGE, TECHNIK, PROGRESS, SKILL, PSYCHO) und OnLocation (TRAVEL, LOCATION, INSURANCE, EQUIPMENT) für 6 Monate.">
 <link rel="canonical" href="https://memberabo.prophotoskills.com/">
+
+
+<link rel="stylesheet" href="/assets/css/cookieconsent.css">
+<script defer src="/assets/js/cookieconsent-config.js"></script>
+
+<script>
+    window.addEventListener('load', function(){
+        // Hier wird das Cookie-Consent-Plugin initialisiert
+        CookieConsent.run({
+            gui_options: {
+                consent_modal: {
+                    layout: 'box', // oder 'bar', 'cloud'
+                    position: 'bottom right', // oder 'bottom left', 'top' etc.
+                    transition: 'slide'
+                }
+            },
+            categories: {
+                necessary: {
+                    read_only: true // Notwendige Cookies (immer an)
+                },
+                analytics: {} // Analytische Cookies
+            }
+        });
+    });
+</script>
+
+  if (CookieConsent.allowedCategory('analytics')) {
+    // Lade hier deinen Tracking-Code (z.B. Google Analytics)
+}
 <style>
+
+
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CYD64P4LZ2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CYD64P4LZ2');
+</script>
+  
 /* ===================== HEADER ===================== */
 .pps-site-header {
   background: #F8E800;
