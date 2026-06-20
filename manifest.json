@@ -1,0 +1,35 @@
+{
+  "name": "ProPhotoSkills MemberAbo",
+  "short_name": "MemberAbo",
+  "description": "Vollzugang zu allen 9 Bereichen professioneller Fotografie. Next Level und OnLocation kombiniert.",
+  "start_url": "https://memberabo.prophotoskills.com/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1F3864",
+  "lang": "de",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://memberabo.prophotoskills.com/wp-content/uploads/2026/05/PPS_BookCover_4000x3200_MB-scaled-1.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "categories": [
+    "education",
+    "photography",
+    "productivity"
+  ],
+  "keywords": [
+    "ProPhotoSkills Membership",
+    "Professionelle Fotografie",
+    "Photography Weiterbildung",
+    "Next Level Fotografie",
+    "OnLocation Fotografie",
+    "Foto Abo",
+    "ProPhotoSkills"
+  ]
+}

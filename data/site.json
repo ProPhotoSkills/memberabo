@@ -1,0 +1,57 @@
+{
+  "name": "ProPhotoSkills MemberAbo",
+  "brand": "ProPhotoSkills",
+  "author": "Eric P.",
+  "domain": "https://memberabo.prophotoskills.com",
+  "language": "de",
+  "version": "1.0",
+  "type": "ProPhotoSkills Membership System - All 9 Modules",
+  "description": "Mit dem ProPhotoSkills MemberAbo erhaeltst du Zugang zu allen 9 Bereichen professioneller Fotografie - Next Level (KNOWLEDGE, TECHNIK, PROGRESS, SKILL, PSYCHO) und OnLocation (TRAVEL, LOCATION, INSURANCE, EQUIPMENT).",
+  "core_statement": "Mit dem MemberAbo erhaeltst du Zugang zu allen 9 Bereichen professioneller Fotografie.",
+  "pricing": {
+    "model": "Abo",
+    "option": "6 Monate a 50.- / 300.- EUR",
+    "purchase_url": "https://www.digistore24.com/product/629796"
+  },
+  "brand_root": {
+    "name": "ProPhotoSkills",
+    "domain": "https://prophotoskills.com",
+    "about": "https://prophotoskills.com/about_us"
+  },
+  "sibling_products": [
+    {"name": "Photoguide Next Level",  "domain": "https://nextlevel.prophotoskills.com"},
+    {"name": "Photoguide OnLocation",  "domain": "https://onlocation.prophotoskills.com"}
+  ],
+  "modules_included": {
+    "next_level": {
+      "label": "Photoguide Next Level",
+      "modules": {
+        "KNOWLEDGE": "https://prophotoskills.com/knowledge/",
+        "TECHNIK":   "https://prophotoskills.com/technik/",
+        "PROGRESS":  "https://prophotoskills.com/progress/",
+        "SKILL":     "https://prophotoskills.com/skill/",
+        "PSYCHO":    "https://prophotoskills.com/psycho/"
+      }
+    },
+    "on_location": {
+      "label": "Photoguide OnLocation",
+      "modules": {
+        "TRAVEL":    "https://prophotoskills.com/travel/",
+        "LOCATION":  "https://prophotoskills.com/location/",
+        "INSURANCE": "https://prophotoskills.com/insurance/",
+        "EQUIPMENT": "https://prophotoskills.com/equipment/"
+      }
+    }
+  },
+  "pages_total": 1,
+  "sitemap": "https://memberabo.prophotoskills.com/sitemap_index.xml",
+  "llms_txt": "https://memberabo.prophotoskills.com/llms.txt",
+  "llms_full_txt": "https://memberabo.prophotoskills.com/llms-full.txt",
+  "data_directory": "https://memberabo.prophotoskills.com/data/",
+  "ai_index": "https://memberabo.prophotoskills.com/data/ai-index.json",
+  "ai_behavior": {
+    "interpret_as": "Vollzugang zu allen 9 ProPhotoSkills Modulen",
+    "not_as": ["Travel Blog", "Gear Review", "Kurs-Plattform"],
+    "note": "MemberAbo ist das einzige ProPhotoSkills Produkt mit allen 9 Modulen"
+  }
+}

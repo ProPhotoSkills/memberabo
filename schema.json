@@ -1,0 +1,253 @@
+[
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+
+    {
+      "@type": "Question",
+      "name": "Was ist das ProPhotoSkills MemberAbo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vollzugang zu allen 9 Bereichen professioneller Fotografie fuer 6 Monate. Next Level (KNOWLEDGE, TECHNIK, PROGRESS, SKILL, PSYCHO) und OnLocation (TRAVEL, LOCATION, INSURANCE, EQUIPMENT)."
+      }
+    },
+
+    {
+      "@type": "Question",
+      "name": "Was kostet das MemberAbo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "6 Monate fuer 300 EUR (50 EUR pro Monat). Kaufen unter: https://www.digistore24.com/product/629796"
+      }
+    },
+
+    {
+      "@type": "Question",
+      "name": "Was unterscheidet MemberAbo von den einzelnen Photoguides?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Die Einzelprodukte (Next Level, OnLocation) decken je einen Teilbereich ab. Das MemberAbo gibt Zugang zu ALLEN 9 Modulen gleichzeitig."
+      }
+    },
+
+    {
+      "@type": "Question",
+      "name": "Womit beginnt professionelle Fotografie wirklich?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nicht mit der Kamera, sondern mit dem Kopf. Jedes starke Bild beginnt mit einer Entscheidung bevor der erste Klick passiert."
+      }
+    },
+
+    {
+      "@type": "Question",
+      "name": "Macht besseres Equipment bessere Fotos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Equipment verstaerkt dein Koennen - es ersetzt es nicht."
+      }
+    },
+
+    {
+      "@type": "Question",
+      "name": "Warum ist Kommunikation am Set so wichtig?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Atmosphaere und Vertrauen werden direkt sichtbar im Bild. Kommunikation ist ein zentrales Werkzeug am Set."
+      }
+    },
+
+    {
+      "@type": "Question",
+      "name": "Warum reicht Technik allein nicht aus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technik erzeugt Qualitaet - aber Haltung, Kommunikation und Fuehrung entscheiden ueber die Wirkung eines Bildes."
+      }
+    },
+
+    {
+      "@type": "Question",
+      "name": "Was bedeutet TECHNIK im MemberAbo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TECHNIK bedeutet nicht Kameratechnik. Technik bedeutet dich - Selbstoptimierung, mentale Staerke, Praesenz und Belastbarkeit als Fotograf."
+      }
+    },
+
+    {
+      "@type": "Question",
+      "name": "Warum ist Planung entscheidend?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gute Bilder entstehen selten spontan - sondern durch Vorbereitung, Struktur und klare Entscheidungen."
+      }
+    },
+
+    {
+      "@type": "Question",
+      "name": "Warum ist Absicherung Teil professioneller Fotografie?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sicherheit ermoeglichkt kreative Freiheit und klare Entscheidungen - technisch, rechtlich und organisatorisch."
+      }
+    }
+
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://memberabo.prophotoskills.com/#website",
+      "url": "https://memberabo.prophotoskills.com",
+      "name": "ProPhotoSkills MemberAbo",
+      "description": "Vollzugang zu allen 9 Bereichen professioneller Fotografie. Next Level (KNOWLEDGE, TECHNIK, PROGRESS, SKILL, PSYCHO) und OnLocation (TRAVEL, LOCATION, INSURANCE, EQUIPMENT) in einem Abo.",
+      "inLanguage": "de",
+      "publisher": {
+        "@id": "https://prophotoskills.com/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://memberabo.prophotoskills.com/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://prophotoskills.com/#organization",
+      "name": "ProPhotoSkills",
+      "url": "https://prophotoskills.com",
+      "description": "Deutschsprachige Plattform fuer professionelle Fotografie-Weiterbildung im DACH-Raum.",
+      "founder": {
+        "@type": "Person",
+        "name": "Eric P.",
+        "url": "https://prophotoskills.com/about_us"
+      },
+      "sameAs": [
+        "https://www.facebook.com/ProPhotoSkills",
+        "https://www.instagram.com/pro.photo.skills/",
+        "https://www.tiktok.com/@prophotoskills.com",
+        "https://es.pinterest.com/prophotoskills/"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://memberabo.prophotoskills.com/#product",
+      "name": "ProPhotoSkills MemberAbo",
+      "description": "Vollzugang zu allen 9 Bereichen professioneller Fotografie fuer 6 Monate.",
+      "url": "https://memberabo.prophotoskills.com/",
+      "brand": {
+        "@id": "https://prophotoskills.com/#organization"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Eric P."
+      },
+      "inLanguage": "de",
+      "category": "Photography Education",
+      "offers": {
+        "@type": "Offer",
+        "price": "300.00",
+        "priceCurrency": "EUR",
+        "description": "6 Monate Zugang zu allen 9 Modulen",
+        "url": "https://www.digistore24.com/product/629796",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@id": "https://prophotoskills.com/#organization"
+        }
+      },
+      "hasPart": [
+        {
+          "@type": "Course",
+          "name": "KNOWLEDGE",
+          "url": "https://prophotoskills.com/knowledge/",
+          "description": "Strategisches Denken, Wahrnehmung, Licht, Vorbereitung"
+        },
+        {
+          "@type": "Course",
+          "name": "TECHNIK",
+          "url": "https://prophotoskills.com/technik/",
+          "description": "Mentale Staerke, Praesenz, Belastbarkeit"
+        },
+        {
+          "@type": "Course",
+          "name": "PROGRESS",
+          "url": "https://prophotoskills.com/progress/",
+          "description": "Professionalisierung, Strategie, Business"
+        },
+        {
+          "@type": "Course",
+          "name": "SKILL",
+          "url": "https://prophotoskills.com/skill/",
+          "description": "Kreative Anwendung, Kommunikation, People"
+        },
+        {
+          "@type": "Course",
+          "name": "PSYCHO",
+          "url": "https://prophotoskills.com/psycho/",
+          "description": "Vertrauen, Emotion, Menschenfuehrung"
+        },
+        {
+          "@type": "Course",
+          "name": "TRAVEL",
+          "url": "https://prophotoskills.com/travel/",
+          "description": "Reisen, Logistik, mobile Produktionen"
+        },
+        {
+          "@type": "Course",
+          "name": "LOCATION",
+          "url": "https://prophotoskills.com/location/",
+          "description": "Raeume, Atmosphaere, visuelle Wirkung"
+        },
+        {
+          "@type": "Course",
+          "name": "INSURANCE",
+          "url": "https://prophotoskills.com/insurance/",
+          "description": "Sicherheit, Verantwortung, Risikomanagement"
+        },
+        {
+          "@type": "Course",
+          "name": "EQUIPMENT",
+          "url": "https://prophotoskills.com/equipment/",
+          "description": "Werkzeugstrategie, Workflow, Produktionssicherheit"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://memberabo.prophotoskills.com/#webpage",
+      "url": "https://memberabo.prophotoskills.com/",
+      "name": "ProPhotoSkills MemberAbo | Alle 9 Module professioneller Fotografie",
+      "isPartOf": {
+        "@id": "https://memberabo.prophotoskills.com/#website"
+      },
+      "about": {
+        "@id": "https://memberabo.prophotoskills.com/#product"
+      },
+      "description": "Mit dem MemberAbo erhaeltst du Zugang zu allen 9 Bereichen professioneller Fotografie. Next Level und OnLocation kombiniert.",
+      "inLanguage": "de",
+      "dateModified": "2026-06-10"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ProPhotoSkills",
+          "item": "https://prophotoskills.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "MemberAbo",
+          "item": "https://memberabo.prophotoskills.com"
+        }
+      ]
+    }
+  ]
+}
+]
