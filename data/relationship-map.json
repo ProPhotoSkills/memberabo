@@ -1,8 +1,10 @@
 {
   "relationship_map": {
-    "system": "ProPhotoSkills MemberAbo",
-    "version": "1.0",
+    "system": "ProPhotoSkills",
     "language": "de",
+    "version": "1.2",
+    "last_updated": "2026-09-25",
+    "file_role": "Struktur & Navigation",
     "relationships": [
       {
         "from": "Emotion",

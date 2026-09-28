@@ -1,8 +1,10 @@
 {
   "semantic_concept_map": {
-    "system": "ProPhotoSkills MemberAbo",
-    "version": "1.0",
+    "system": "ProPhotoSkills",
     "language": "de",
+    "version": "1.2",
+    "last_updated": "2026-09-25",
+    "file_role": "Struktur & Navigation",
     "logic": "Die Reihenfolge folgt dem professionellen Denk- und Produktionsprozess eines Fotografen.",
     "semantic_direction": [
       "Denken",
@@ -261,8 +263,8 @@
       ]
     },
     "nextlevel_cross_reference": {
-      "system": "ProPhotoSkills MemberAbo",
-      "domain": "https://memberabo.prophotoskills.com",
+      "system": "ProPhotoSkills",
+      "domain": "https://prophotoskills.com",
       "modules": {
         "KNOWLEDGE": "https://prophotoskills.com/knowledge/",
         "TECHNIK": "https://prophotoskills.com/technik/",

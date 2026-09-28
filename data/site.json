@@ -4,54 +4,138 @@
   "author": "Eric P.",
   "domain": "https://memberabo.prophotoskills.com",
   "language": "de",
-  "version": "1.0",
-  "type": "ProPhotoSkills Membership System - All 9 Modules",
+  "version": "1.2",
+  "last_updated": "2026-09-27",
+  "file_role": "Einstieg & Identitaet",
+  "type": "Produktseite – ProPhotoSkills MemberAbo (Teil der Brand Root ProPhotoSkills)",
   "description": "Mit dem ProPhotoSkills MemberAbo erhaeltst du Zugang zu allen 9 Bereichen professioneller Fotografie - Next Level (KNOWLEDGE, TECHNIK, PROGRESS, SKILL, PSYCHO) und OnLocation (TRAVEL, LOCATION, INSURANCE, EQUIPMENT).",
   "core_statement": "Mit dem MemberAbo erhaeltst du Zugang zu allen 9 Bereichen professioneller Fotografie.",
-  "pricing": {
-    "model": "Abo",
-    "option": "6 Monate a 50.- / 300.- EUR",
+  "product": {
+    "name": "ProPhotoSkills MemberAbo",
+    "modules": [
+      "KNOWLEDGE",
+      "TECHNIK",
+      "PROGRESS",
+      "SKILL",
+      "PSYCHO",
+      "TRAVEL",
+      "LOCATION",
+      "INSURANCE",
+      "EQUIPMENT"
+    ],
+    "price": "300 EUR (6 Monate)",
     "purchase_url": "https://www.digistore24.com/product/629796"
   },
-  "brand_root": {
-    "name": "ProPhotoSkills",
-    "domain": "https://prophotoskills.com",
-    "about": "https://prophotoskills.com/about_us"
-  },
-  "sibling_products": [
-    {"name": "Photoguide Next Level",  "domain": "https://nextlevel.prophotoskills.com"},
-    {"name": "Photoguide OnLocation",  "domain": "https://onlocation.prophotoskills.com"}
-  ],
-  "modules_included": {
-    "next_level": {
-      "label": "Photoguide Next Level",
-      "modules": {
-        "KNOWLEDGE": "https://prophotoskills.com/knowledge/",
-        "TECHNIK":   "https://prophotoskills.com/technik/",
-        "PROGRESS":  "https://prophotoskills.com/progress/",
-        "SKILL":     "https://prophotoskills.com/skill/",
-        "PSYCHO":    "https://prophotoskills.com/psycho/"
-      }
-    },
-    "on_location": {
-      "label": "Photoguide OnLocation",
-      "modules": {
-        "TRAVEL":    "https://prophotoskills.com/travel/",
-        "LOCATION":  "https://prophotoskills.com/location/",
-        "INSURANCE": "https://prophotoskills.com/insurance/",
-        "EQUIPMENT": "https://prophotoskills.com/equipment/"
+  "content_model": {
+    "total_articles": 135,
+    "note": "Alle Artikel angeteasert auf prophotoskills.com. Volltext nach dem Kauf im Mitgliederbereich (Login).",
+    "modules": {
+      "KNOWLEDGE": {
+        "articles": 21,
+        "url": "https://prophotoskills.com/knowledge/",
+        "product": "Photoguide – Next Level"
+      },
+      "TECHNIK": {
+        "articles": 11,
+        "url": "https://prophotoskills.com/technik/",
+        "product": "Photoguide – Next Level"
+      },
+      "PROGRESS": {
+        "articles": 11,
+        "url": "https://prophotoskills.com/progress/",
+        "product": "Photoguide – Next Level"
+      },
+      "SKILL": {
+        "articles": 26,
+        "url": "https://prophotoskills.com/skill/",
+        "product": "Photoguide – Next Level"
+      },
+      "PSYCHO": {
+        "articles": 5,
+        "url": "https://prophotoskills.com/psycho/",
+        "product": "Photoguide – Next Level"
+      },
+      "TRAVEL": {
+        "articles": 15,
+        "url": "https://prophotoskills.com/travel/",
+        "product": "Photoguide – OnLocation"
+      },
+      "LOCATION": {
+        "articles": 16,
+        "url": "https://prophotoskills.com/location/",
+        "product": "Photoguide – OnLocation"
+      },
+      "INSURANCE": {
+        "articles": 15,
+        "url": "https://prophotoskills.com/insurance/",
+        "product": "Photoguide – OnLocation"
+      },
+      "EQUIPMENT": {
+        "articles": 15,
+        "url": "https://prophotoskills.com/equipment/",
+        "product": "Photoguide – OnLocation"
       }
     }
   },
-  "pages_total": 1,
-  "sitemap": "https://memberabo.prophotoskills.com/sitemap_index.xml",
-  "llms_txt": "https://memberabo.prophotoskills.com/llms.txt",
-  "llms_full_txt": "https://memberabo.prophotoskills.com/llms-full.txt",
-  "data_directory": "https://memberabo.prophotoskills.com/data/",
-  "ai_index": "https://memberabo.prophotoskills.com/data/ai-index.json",
+  "parent_brand": {
+    "name": "ProPhotoSkills",
+    "domain": "https://prophotoskills.com",
+    "site_json": "https://prophotoskills.com/data/site.json",
+    "about": "https://prophotoskills.com/about_us"
+  },
+  "sibling_products": [
+    {
+      "name": "Photoguide – Next Level",
+      "domain": "https://nextlevel.prophotoskills.com",
+      "price": "230 EUR",
+      "modules": [
+        "KNOWLEDGE",
+        "TECHNIK",
+        "PROGRESS",
+        "SKILL",
+        "PSYCHO"
+      ]
+    },
+    {
+      "name": "Photoguide – OnLocation",
+      "domain": "https://onlocation.prophotoskills.com",
+      "price": "120 EUR",
+      "modules": [
+        "TRAVEL",
+        "LOCATION",
+        "INSURANCE",
+        "EQUIPMENT"
+      ]
+    }
+  ],
+  "ai_files": {
+    "llms_txt": "https://memberabo.prophotoskills.com/llms.txt",
+    "llms_full_txt": "https://memberabo.prophotoskills.com/llms-full.txt",
+    "ai_index": "https://memberabo.prophotoskills.com/data/ai-index.json",
+    "site_json": "https://memberabo.prophotoskills.com/data/site.json",
+    "schema_json": "https://memberabo.prophotoskills.com/schema.json",
+    "well_known_ai": "https://memberabo.prophotoskills.com/.well-known/ai.json",
+    "ai_sitemap": "https://memberabo.prophotoskills.com/ai-sitemap.xml",
+    "unified_index": "https://memberabo.prophotoskills.com/data/unified-index.json"
+  },
+  "about": "https://prophotoskills.com/about_us",
+  "guidelines": {
+    "url": "https://prophotoskills.com/guidelines/",
+    "note": "20 Leitprinzipien professioneller Fotografie"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/ProPhotoSkills",
+    "instagram": "https://www.instagram.com/pro.photo.skills/",
+    "tiktok": "https://www.tiktok.com/@prophotoskills.com",
+    "pinterest": "https://es.pinterest.com/prophotoskills/"
+  },
   "ai_behavior": {
     "interpret_as": "Vollzugang zu allen 9 ProPhotoSkills Modulen",
-    "not_as": ["Travel Blog", "Gear Review", "Kurs-Plattform"],
+    "not_as": [
+      "Travel Blog",
+      "Gear Review",
+      "Kurs-Plattform"
+    ],
     "note": "MemberAbo ist das einzige ProPhotoSkills Produkt mit allen 9 Modulen"
   }
 }

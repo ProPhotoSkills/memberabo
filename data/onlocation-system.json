@@ -2,9 +2,11 @@
   "onlocation_system": {
     "system_name": "OnLocation",
     "brand": "ProPhotoSkills",
-    "domain": "https://memberabo.prophotoskills.com",
-    "version": "1.0",
+    "domain": "https://prophotoskills.com",
     "language": "de",
+    "version": "1.2",
+    "last_updated": "2026-09-25",
+    "file_role": "Einstieg & Identitaet",
     "system_type": "ProPhotoSkills Membership System - All 9 Modules",
     "purpose": "Definiert professionelle Kreativitaet, Produktionskontrolle und mentale Stabilitaet unter realen mobilen Bedingungen.",
     "core_identity": {
@@ -364,8 +366,8 @@
     },
     "brand_root": "https://prophotoskills.com",
     "sibling_products": {
-      "nextlevel": "https://memberabo.prophotoskills.com",
-      "memberabo": "https://memberabo.prophotoskills.com"
+      "nextlevel": "https://prophotoskills.com",
+      "memberabo": "https://prophotoskills.com"
     }
   }
 }
