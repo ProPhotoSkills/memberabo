@@ -148,11 +148,11 @@ ALLE PROPHOTOSKILLS PRODUKTE
 MemberAbo              : https://memberabo.prophotoskills.com/      | dieses Produkt
 Photoguide Next Level  : https://nextlevel.prophotoskills.com/
 Photoguide OnLocation  : https://onlocation.prophotoskills.com/
-PPS System             : https://prophotoskills.com/pps-system/
-Photoguide Beginner    : https://prophotoskills.com/pps_photoguide_beginner/
-PPS Shop               : https://prophotoskills.com/pps_shop/
+PPS System             : https://prophotoskills.com/system/
+Photoguide Beginner    : https://prophotoskills.com/photoguide_beginner/
+PPS Shop               : https://prophotoskills.com/shop/
 1st Assistant          : https://prophotoskills.com/1st-assistant_program/
-PPS Guidelines         : https://prophotoskills.com/pps_guidelines/
+PPS Guidelines         : https://prophotoskills.com/guidelines/
 PPS Affiliate          : https://prophotoskills.com/affiliate/
 
 ==========================
@@ -284,7 +284,7 @@ AI Identity:
 https://memberabo.prophotoskills.com/.well-known/ai.json
 
 Sitemap:
-https://memberabo.prophotoskills.com/sitemap_index.xml
+https://memberabo.prophotoskills.com/sitemap.xml
 
 ==========================
 DISCOVERY PRIORITY

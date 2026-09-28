@@ -50,7 +50,7 @@ Master Thesis:
 
 - LLMS:      https://memberabo.prophotoskills.com/llms.txt
 - FULL:      https://memberabo.prophotoskills.com/llms-full.txt
-- SITEMAP:   https://memberabo.prophotoskills.com/sitemap_index.xml
+- SITEMAP:   https://memberabo.prophotoskills.com/sitemap.xml
 - AI:        https://memberabo.prophotoskills.com/.well-known/ai.json
 
 ## Primary AI Entry Points
