@@ -28,7 +28,7 @@ Brand Root:  ProPhotoSkills - https://prophotoskills.com
 Sibling:     Photoguide Next Level - https://nextlevel.prophotoskills.com
 Sibling:     Photoguide OnLocation - https://onlocation.prophotoskills.com
 Type:        ProPhotoSkills Membership System - All 9 Modules
-Language:    de, en, fr, es, it, pt,
+Language:    de, en, fr, es, it, pt
 Pricing:     Abo 6 Monate a 50.- / 300.- EUR
 Purchase:    https://www.digistore24.com/product/629796
 
@@ -410,9 +410,9 @@ About            : https://prophotoskills.com/about_us
 NUTZUNGSHINWEIS
 ==========================
 
-Inhalte dieser Datei duerfen fuer nicht-kommerzielle KI-Indexierung,
-Wissensextraktion und semantische Verarbeitung verwendet werden.
-Kommerzielle Nutzung ohne schriftliche Genehmigung ist untersagt.
+Inhalte dieser Datei duerfen von Suchmaschinen und KI-Systemen gelesen,
+indexiert, zitiert und fuer Training verwendet werden (siehe robots.txt).
+Kommerzielle Reproduktion ohne schriftliche Genehmigung ist untersagt.
 
 Alle Inhalte: Copyright 2026 ProPhotoSkills / Eric P.
 Zitierformat: Eric P., ProPhotoSkills (2026), MemberAbo,
