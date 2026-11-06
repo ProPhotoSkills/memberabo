@@ -9,7 +9,7 @@
       "name": "Was ist das ProPhotoSkills MemberAbo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Vollzugang zu allen 9 Bereichen professioneller Fotografie – 6 Monate zahlen, danach lifetime access. Next Level (KNOWLEDGE, TECHNIK, PROGRESS, SKILL, PSYCHO) und OnLocation (TRAVEL, LOCATION, INSURANCE, EQUIPMENT)."
+        "text": "Vollzugang zu allen 9 Bereichen professioneller Fotografie – 300 € · 50 € x 6 Monate zahlen · lifetime access. Next Level (KNOWLEDGE, TECHNIK, PROGRESS, SKILL, PSYCHO) und OnLocation (TRAVEL, LOCATION, INSURANCE, EQUIPMENT)."
       }
     },
 
@@ -18,7 +18,7 @@
       "name": "Was kostet das MemberAbo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "300 EUR, 6 Monate zahlen (50 EUR pro Monat), danach lifetime access. Kaufen unter: https://www.digistore24.com/product/629796"
+        "text": "300 € · 50 € x 6 Monate zahlen · lifetime access. Kaufen unter: https://www.digistore24.com/product/629796"
       }
     },
 
@@ -137,7 +137,7 @@
       "@type": "Product",
       "@id": "https://memberabo.prophotoskills.com/#product",
       "name": "ProPhotoSkills MemberAbo",
-      "description": "Vollzugang zu allen 9 Bereichen professioneller Fotografie – 6 Monate zahlen, danach lifetime access.",
+      "description": "Vollzugang zu allen 9 Bereichen professioneller Fotografie – 300 € · 50 € x 6 Monate zahlen · lifetime access.",
       "url": "https://memberabo.prophotoskills.com/",
       "brand": {
         "@id": "https://prophotoskills.com/#organization"
@@ -152,7 +152,7 @@
         "@type": "Offer",
         "price": "300.00",
         "priceCurrency": "EUR",
-        "description": "300 EUR, 6 Monate zahlen (6 × 50 EUR), danach lifetime access – alle 9 Module",
+        "description": "300 € · 50 € x 6 Monate zahlen · lifetime access – alle 9 Module",
         "url": "https://www.digistore24.com/product/629796",
         "availability": "https://schema.org/InStock",
         "seller": {
